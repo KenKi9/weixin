@@ -1,4 +1,4 @@
-.box{
+.header{
   display: flex;
   justify-content: space-around;
   margin-top: 20px;
@@ -11,13 +11,13 @@
   justify-content: space-around;
   font-size: 22px
 }
-.con{
+.btns{
   display: flex;
   justify-content: space-around;
   margin-top: 10px;
 
 }
-.con text{
+.btns .butt{
 width: 80px;
 height: 30px;
 font-size: 14px;
