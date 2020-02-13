@@ -2,7 +2,6 @@
   "pages": [
     "pages/home/home",
     "pages/index/index",
-    "pages/time/time",
     "pages/jing/jing",
     "pages/yu/yu"
     
@@ -22,10 +21,6 @@
       {
         "pagePath": "pages/index/index",
         "text": "年月日"
-      },
-      {
-        "pagePath":"pages/time/time",
-        "text":"日子"
       },
       {
         "pagePath":"pages/jing/jing",
